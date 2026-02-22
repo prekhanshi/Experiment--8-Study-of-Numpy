@@ -10,7 +10,7 @@
 
 Study of NumPy in Python
 
-#Aim
+# Aim
 
 To study and implement the NumPy library in Python for efficient numerical computing and array manipulation.
 
